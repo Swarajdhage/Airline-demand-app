@@ -4,6 +4,12 @@ This web application analyzes and visualizes market demand trends in the airline
 
 ---
 
+## 🔗 Live Demo
+
+👉 [Click here to use the live app](https://swarajdhage-airline-demand-app-app-gyxe1e.streamlit.app/)
+
+---
+
 ## 🔍 Features
 
 - ✅ **Trend Data**: Scrapes public interest data from Google Trends using the `pytrends` API
@@ -77,6 +83,7 @@ Author: Swaraj Dhage
 Submitted for: Technical Test Task – Airline Booking Demand Web App
 Company: PS Fin Solutions
 Evaluator: Shinod
+Live App: https://swarajdhage-airline-demand-app-app-gyxe1e.streamlit.app
 
 ✅ Status
 ✔️ Task requirements fully implemented and ready for review.
