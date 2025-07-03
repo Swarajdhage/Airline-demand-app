@@ -75,7 +75,7 @@ Just connect this repo, and Streamlit will automatically launch the app.
 📬 Contact
 Author: Swaraj Dhage
 Submitted for: Technical Test Task – Airline Booking Demand Web App
-Company: [Company Name as in email]
+Company: PS Fin Solutions
 Evaluator: Shinod
 
 ✅ Status
